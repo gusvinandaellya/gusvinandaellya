@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+##
+<h3><b><samp>Github Statistics</samp></b></h3>
+<p align="center">
+  <img  width="400" src="https://github-readme-stats.vercel.app/api?username=ekopras18&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;
+      <img  width="400" src="https://github-readme-streak-stats.herokuapp.com?user=gusvinandaellya&theme=onedark&mode=weekly&hide_border=false" />
+</p>
+
+##
+<h3><b><samp>Github Profile Trophy</samp></b></h3>
+<div style="display:flex; height:100%; width:100%; justify-content:center; align-items:center;">
+<img src="https://github-profile-trophy.vercel.app/?username=gusvinandaellya&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</div>
