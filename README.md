@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 ###
 <h3><b><samp>Github Statistics</samp></b></h3>
 <p>
