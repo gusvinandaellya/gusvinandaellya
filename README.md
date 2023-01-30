@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/gusvinanda-ellya-ruswati-707994184/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +14,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=gusvinandaellya&style=flat-square&color=blue" alt=""/>  
 </div>
+
+###
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
