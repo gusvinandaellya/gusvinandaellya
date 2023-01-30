@@ -22,7 +22,7 @@
 
 - :seedling: Exploring Code Efficiently Writing.
 
-- :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Eliavina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gusvinanda-ellya-ruswati-707994184/)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Eliavina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gusvinanda-ellya-ruswati-707994184/)
 
 ---
 
