@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/gusvinanda-ellya-ruswati-707994184/">
+  <a href="https://www.linkedin.com/in/gusvinandaellya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCimbD3hVEU4oK9TjVCMZC_Q">
@@ -24,7 +24,7 @@
 
 - :seedling: Exploring Code Efficiently Writing.
 
-- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Eliavina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gusvinanda-ellya-ruswati-707994184/)
+- :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Eliavina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gusvinandaellya/)
 
 ---
 
