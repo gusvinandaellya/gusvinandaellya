@@ -61,6 +61,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-<img src="https://github-profile-trophy.vercel.app/?username=gusvinandaellya&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</div>
