@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" alt="coding gif" />
 </div>
 
 <br/>
@@ -58,23 +58,6 @@ I care about shipping, maintainability, and reliability (systems that don’t br
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
-
----
-
-## 📈 GitHub Stats
-> Kalau gambar masih error, ganti base URL `github-readme-stats.vercel.app` ke mirror yang aku tulis di bawah.
-
-<div align="center">
-  <img height="165" alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=gusvinandaellya&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
-  <img height="165" alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusvinandaellya&layout=compact&langs_count=8&cache_seconds=1800" />
-</div>
-
-<div align="center">
-  <img height="180" alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=gusvinandaellya" />
 </div>
 
 ---
