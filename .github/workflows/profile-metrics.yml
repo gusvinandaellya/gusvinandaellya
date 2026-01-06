@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 2 * * *"
   workflow_dispatch:
+  push:
+    branches: ["main"]
 
 permissions:
   contents: write
@@ -15,10 +17,15 @@ jobs:
       - name: Generate github-metrics.svg
         uses: lowlighter/metrics@latest
         with:
+          # Token untuk ambil data (punya kamu)
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Token untuk commit/push ke repo (lebih reliable)
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
           user: gusvinandaellya
-          filename: github-metrics.svg
           template: classic
+          filename: github-metrics.svg
 
           base: header, activity, community, repositories, metadata
 
