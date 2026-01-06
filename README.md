@@ -42,7 +42,6 @@ I care about **shipping**, **maintainability**, and **reliability** (systems tha
 ---
 
 ## 📈 GitHub Stats
-> Generated via GitHub Actions (no third-party image service).
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
