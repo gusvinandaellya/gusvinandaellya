@@ -41,14 +41,6 @@ I care about **shipping**, **maintainability**, and **reliability** (systems tha
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="center">
