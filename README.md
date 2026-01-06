@@ -2,8 +2,12 @@
   Hi there, I'm <a href="https://www.instagram.com/vinaellyar/" target="_blank">Eliavina</a> 👋
 </h1>
 
+<p align="center">
+  Software Engineer • Laravel & Vue/React • Building reliable web apps & integrations
+</p>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="520" alt="coding gif" />
 </div>
 
 <br/>
@@ -27,12 +31,22 @@
 ---
 
 ## 👩‍💻 About Me
-Software Engineer building web applications end-to-end — frontend, backend, database, and integrations.
-I care about shipping, maintainability, and reliability (systems that don’t break at 2 AM).
+I build web applications end-to-end — frontend, backend, database, and integrations.
+I care about **shipping**, **maintainability**, and **reliability** (systems that don’t break at 2 AM).
 
 - 🔧 Core stack: **Laravel**, **Vue**, **React**, REST API, MySQL
-- 🌱 Currently improving: cleaner architecture & writing code more efficiently
+- 🧩 Strong in: integrations, payment flows, debugging production issues
+- 🌱 Currently improving: clean architecture, better code quality & performance
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gusvinandaellya/)
+
+---
+
+## 📈 GitHub Stats
+> Generated via GitHub Actions (no third-party image service).
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
 ---
 
